@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Valentine/static/css/main.03ced37b.css",
-    "main.js": "/My-Valentine/static/js/main.afd2cb21.js",
+    "main.css": "/My-Valentine/static/css/main.ae58308b.css",
+    "main.js": "/My-Valentine/static/js/main.b0c8beb3.js",
     "static/js/112.15b680cf.chunk.js": "/My-Valentine/static/js/112.15b680cf.chunk.js",
     "static/js/592.eaadf68f.chunk.js": "/My-Valentine/static/js/592.eaadf68f.chunk.js",
     "static/js/960.e6e5e995.chunk.js": "/My-Valentine/static/js/960.e6e5e995.chunk.js",
@@ -19,15 +19,19 @@
     "static/media/SolarUniverse.webp": "/My-Valentine/static/media/SolarUniverse.cc4a21e980834921d6e6.webp",
     "static/media/CatEyes.webp": "/My-Valentine/static/media/CatEyes.f3fc5fa6b912c05db1a0.webp",
     "static/media/logo.svg": "/My-Valentine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/My-Valentine/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/My-Valentine/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/My-Valentine/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/My-Valentine/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/My-Valentine/index.html",
-    "main.03ced37b.css.map": "/My-Valentine/static/css/main.03ced37b.css.map",
-    "main.afd2cb21.js.map": "/My-Valentine/static/js/main.afd2cb21.js.map",
+    "main.ae58308b.css.map": "/My-Valentine/static/css/main.ae58308b.css.map",
+    "main.b0c8beb3.js.map": "/My-Valentine/static/js/main.b0c8beb3.js.map",
     "112.15b680cf.chunk.js.map": "/My-Valentine/static/js/112.15b680cf.chunk.js.map",
     "592.eaadf68f.chunk.js.map": "/My-Valentine/static/js/592.eaadf68f.chunk.js.map",
     "960.e6e5e995.chunk.js.map": "/My-Valentine/static/js/960.e6e5e995.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03ced37b.css",
-    "static/js/main.afd2cb21.js"
+    "static/css/main.ae58308b.css",
+    "static/js/main.b0c8beb3.js"
   ]
 }
